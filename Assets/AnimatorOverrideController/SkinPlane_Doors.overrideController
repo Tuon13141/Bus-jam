@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SkinPlane_Doors
+  m_Controller: {fileID: 9100000, guid: a1408153c5cf0a348ad5b46b451ed393, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 047eec6fada990846ac2368c61d5c30c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f00fb320fea16644186e2aed40376385, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7f7215f594f1c9d43b067943b3df94f6, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a332664dacc7b1b44982dc09eae4ae0f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a53b01ee9edb138489f9e070f30129f4, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 22831f2a957033f4b88a9fffbf8c558b, type: 2}

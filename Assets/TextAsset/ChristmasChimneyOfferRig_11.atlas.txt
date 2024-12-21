@@ -1,0 +1,42 @@
+ChristmasChimneyOfferRig_11.png
+size:1996,1781
+filter:Linear,Linear
+Foreground
+bounds:2,2,920,810
+Santa
+bounds:2,988,478,685
+rotate:90
+ay
+bounds:689,814,618,566
+bag
+bounds:548,1468,324,311
+bg2
+bounds:2,1602,177,221
+rotate:90
+ev ışık
+bounds:874,1448,331,331
+saat kulesi ışık
+bounds:225,1470,309,321
+rotate:90
+sokak lambaları
+bounds:1309,607,685,773
+ön ev ışık
+bounds:1207,1382,397,477
+rotate:90
+
+ChristmasChimneyOfferRig_11_2.png
+size:1846,1592
+filter:Linear,Linear
+gökyüzü
+bounds:2,2,920,1588
+light
+bounds:924,2,920,1588
+
+ChristmasChimneyOfferRig_11_3.png
+size:1870,1350
+filter:Linear,Linear
+bg
+bounds:2,2,920,1346
+softlight
+bounds:924,308,944,1040
+offsets:0,225,944,1265

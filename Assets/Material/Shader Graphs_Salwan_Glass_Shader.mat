@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_Salwan_Glass_Shader
+  m_Shader: {fileID: 4800000, guid: d71619d889d13ef4190a6f21664b9808, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 6
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 1
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      Texture2D_5e10b36c5dff453fb3fa1a2d44a717c8:
+        m_Texture: {fileID: 2800000, guid: 753426a58f281d148b4550b578703ab8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _DirtMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _DirtTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _MainTex:
+        m_Texture: {fileID: 2800000, guid: 58bf8f960f472c843980a24aa3846c01, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: {}
+    m_Floats:
+      Vector1_b68d98f6551d4b6ba8197728b6226880: 0.493
+      _Alpha: 0.735
+      _AlphaClip: 0
+      _AlphaToMask: 0
+      _Blend: 0
+      _BlendModePreserveSpecular: 1
+      _BumpScale: 1
+      _ClearCoatMask: 0
+      _ClearCoatSmoothness: 0
+      _Cull: 0
+      _Cutoff: 0.289
+      _DetailAlbedoMapScale: 1
+      _DetailNormalMapScale: 1
+      _DstBlend: 10
+      _DstBlendAlpha: 10
+      _EnvironmentReflections: 1
+      _GlossMapScale: 0
+      _Glossiness: 0
+      _GlossyReflections: 0
+      _Metallic: 0
+      _OcclusionStrength: 1
+      _Parallax: 0.005
+      _QueueControl: 0
+      _QueueOffset: 0
+      _ReceiveShadows: 1
+      _Smoothness: 0.552
+      _SmoothnessTextureChannel: 0
+      _SpecularHighlights: 1
+      _SrcBlend: 1
+      _SrcBlendAlpha: 1
+      _Surface: 1
+      _WorkflowMode: 1
+      _ZWrite: 0
+    m_Colors:
+      Color_a23579cb1fa84dbb95a78a7165a1e636: {r: 0.7028302, g: 0.98963827, b: 1, a: 1}
+      Color_edbe2a7fc6ee41049d9e0885f8757400: {r: 1, g: 1, b: 1, a: 0}
+      Vector2_07455fba5f7f45ecbd9e5c348ec929f3: {r: 0, g: 0.76, b: 0, a: 0}
+      Vector2_d51ac0cd31744eb7a2f992ea1fe32c20: {r: 0, g: 1.41, b: 0, a: 0}
+      _BaseColor: {r: 1, g: 1, b: 1, a: 1}
+      _Color: {r: 1, g: 1, b: 1, a: 1}
+      _CurvedWorldBendSettings: {r: 0, g: 1, b: 0, a: 0}
+      _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+      _Fresnel: {r: 0, g: 1.78, b: 0, a: 0}
+      _SpecColor: {r: 0.8820755, g: 1, b: 0.99801594, a: 1}
+  m_BuildTextureStacks: []

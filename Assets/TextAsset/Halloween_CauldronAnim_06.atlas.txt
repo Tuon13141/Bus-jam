@@ -1,0 +1,36 @@
+Halloween_CauldronAnim_06.png
+size:603,531
+filter:Linear,Linear
+pma:true
+scale:0.4
+Bubble copy
+bounds:558,170,43,42
+Buble
+bounds:465,20,42,42
+offsets:0,0,170,83
+Buble v2
+bounds:509,28,40,40
+Cauldron Front
+bounds:319,214,315,282
+rotate:90
+Handle
+bounds:2,211,280,24
+Left_Handle
+bounds:493,70,58,70
+Legs
+bounds:2,2,216,61
+Light
+bounds:2,65,398,144
+Poison
+bounds:220,36,171,27
+Right_Handle
+bounds:393,4,58,70
+rotate:90
+Wood
+bounds:402,64,76,89
+rotate:90
+cauldron_Back
+bounds:2,237,315,292
+wood2
+bounds:402,142,70,154
+rotate:90

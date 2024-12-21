@@ -1,0 +1,51 @@
+SpaceOffer_08.png
+size:4512,764
+filter:Linear,Linear
+pma:true
+scale:0.4
+Katman 1
+bounds:1284,27,735,1270
+rotate:90
+Katman 2
+bounds:2,2,760,1280
+rotate:90
+Katman 3
+bounds:3980,8,286,373
+offsets:42,0,328,440
+arka kol
+bounds:3890,116,160,76
+offsets:0,0,162,76
+rotate:90
+ay ışık
+bounds:3614,51,215,274
+rotate:90
+gezegenler
+bounds:2556,27,735,808
+offsets:0,113,735,921
+rotate:90
+gövde
+bounds:3841,383,377,379
+offsets:119,183,496,654
+kafa
+bounds:3366,8,258,246
+offsets:27,0,285,261
+rotate:90
+sağ kol
+bounds:3841,278,103,137
+rotate:90
+sağ nbacak
+bounds:4268,150,120,239
+rotate:90
+sol bacak
+bounds:4268,272,170,214
+rotate:90
+ışık
+bounds:3366,268,473,494
+ışık2
+bounds:4268,31,117,117
+ışık3
+bounds:3890,23,88,91
+ışık4
+bounds:4387,61,87,87
+ışık5
+bounds:4220,444,290,318

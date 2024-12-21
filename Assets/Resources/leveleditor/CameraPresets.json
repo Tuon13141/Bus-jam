@@ -1,0 +1,140 @@
+{
+    "presets": [
+        {
+            "gridX": 5,
+            "gridY": 10,
+            "cameraSettings": {
+                "cameraPosition": {
+                    "x": 0.0,
+                    "y": 62.584999084472659,
+                    "z": -41.88249969482422
+                },
+                "cameraRotation": {
+                    "x": 60.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "cameraFov": 20.0
+            }
+        },
+        {
+            "gridX": 6,
+            "gridY": 9,
+            "cameraSettings": {
+                "cameraPosition": {
+                    "x": 0.0,
+                    "y": 60.0,
+                    "z": -41.88249969482422
+                },
+                "cameraRotation": {
+                    "x": 60.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "cameraFov": 20.0
+            }
+        },
+        {
+            "gridX": 8,
+            "gridY": 7,
+            "cameraSettings": {
+                "cameraPosition": {
+                    "x": 0.0,
+                    "y": 62.0,
+                    "z": -40.0
+                },
+                "cameraRotation": {
+                    "x": 60.000003814697269,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "cameraFov": 20.0
+            }
+        },
+        {
+            "gridX": 8,
+            "gridY": 8,
+            "cameraSettings": {
+                "cameraPosition": {
+                    "x": 0.0,
+                    "y": 60.0,
+                    "z": -40.0
+                },
+                "cameraRotation": {
+                    "x": 60.000003814697269,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "cameraFov": 20.0
+            }
+        },
+        {
+            "gridX": 9,
+            "gridY": 10,
+            "cameraSettings": {
+                "cameraPosition": {
+                    "x": 0.0,
+                    "y": 71.0,
+                    "z": -44.5
+                },
+                "cameraRotation": {
+                    "x": 60.000003814697269,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "cameraFov": 20.0
+            }
+        },
+        {
+            "gridX": 9,
+            "gridY": 12,
+            "cameraSettings": {
+                "cameraPosition": {
+                    "x": 0.0,
+                    "y": 71.0,
+                    "z": -48.369998931884769
+                },
+                "cameraRotation": {
+                    "x": 60.000003814697269,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "cameraFov": 20.0
+            }
+        },
+        {
+            "gridX": 11,
+            "gridY": 12,
+            "cameraSettings": {
+                "cameraPosition": {
+                    "x": 0.0,
+                    "y": 83.19999694824219,
+                    "z": -54.29999923706055
+                },
+                "cameraRotation": {
+                    "x": 60.000003814697269,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "cameraFov": 20.0
+            }
+        },
+        {
+            "gridX": 11,
+            "gridY": 18,
+            "cameraSettings": {
+                "cameraPosition": {
+                    "x": 0.0,
+                    "y": 77.5,
+                    "z": -52.70000076293945
+                },
+                "cameraRotation": {
+                    "x": 60.0,
+                    "y": 0.0,
+                    "z": 0.0
+                },
+                "cameraFov": 20.0
+            }
+        }
+    ]
+}

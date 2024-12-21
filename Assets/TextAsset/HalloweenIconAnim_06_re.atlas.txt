@@ -1,0 +1,59 @@
+HalloweenIconAnim_06_re.png
+size:490,1159
+filter:Linear,Linear
+pma:true
+scale:0.4
+Back
+bounds:2,135,324,328
+rotate:90
+Back shadow
+bounds:2,461,338,342
+offsets:1,0,340,343
+rotate:90
+Body
+bounds:332,132,139,137
+Eyes
+bounds:393,44,77,40
+LeftArm
+bounds:315,39,42,67
+rotate:90
+LeftArm 2
+bounds:2,2,62,90
+rotate:90
+LeftHand
+bounds:219,15,48,52
+rotate:90
+Mouth
+bounds:315,83,76,47
+Pumpkin Head
+bounds:368,722,142,114
+rotate:90
+RightArm
+bounds:393,86,81,44
+offsets:0,11,81,55
+RightArm 2
+bounds:219,65,68,94
+rotate:90
+RightHand
+bounds:273,9,54,39
+rotate:90
+ShadoeofTitle
+bounds:346,419,301,128
+offsets:54,56,411,445
+rotate:90
+ShadowofCircle
+bounds:2,801,356,364
+offsets:4,2,365,366
+rotate:90
+TitleP
+bounds:368,866,291,120
+rotate:90
+dikiş
+bounds:2,66,125,67
+moon
+bounds:332,271,147,146
+pumpkin ticket
+bounds:129,55,88,78
+stem
+bounds:384,6,36,39
+rotate:90

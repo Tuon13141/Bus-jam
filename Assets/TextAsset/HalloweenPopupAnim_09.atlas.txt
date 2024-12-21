@@ -1,0 +1,39 @@
+HalloweenPopupAnim_09.png
+size:4096,4096
+filter:Linear,Linear
+Apple
+bounds:1806,97,93,94
+Katman 13
+bounds:1806,548,1239,656
+rotate:90
+Moon
+bounds:2,78,1802,1884
+Right_Stickman_Hands
+bounds:3610,3229,476,216
+rotate:90
+ağaç 1
+bounds:2979,1819,691,904
+ağaç2
+bounds:1806,1789,1171,934
+bridge
+bounds:1806,2725,1802,1369
+ghost 1
+bounds:2464,264,651,728
+offsets:0,0,655,729
+ghost2
+bounds:2953,1027,707,760
+offsets:45,9,781,811
+ghost_01
+bounds:3610,3707,314,387
+offsets:0,0,316,387
+ghost_02
+bounds:2432,2,260,539
+rotate:90
+greem stickman
+bounds:3117,313,626,712
+hat
+bounds:1806,193,624,353
+moon light
+bounds:2,1964,1802,2130
+orenge stickamn
+bounds:2464,994,487,793

@@ -1,0 +1,7 @@
+leaves_01.png
+size:92,172
+filter:Linear,Linear
+pma:true
+4
+bounds:2,2,88,168
+offsets:1,0,91,168

@@ -1,0 +1,150 @@
+thanksgivingicon_03.png
+size:1557,425
+filter:Linear,Linear
+pma:true
+scale:0.4
+1
+bounds:1418,135,37,41
+rotate:90
+1 copy
+bounds:771,18,37,41
+rotate:90
+10
+bounds:1325,265,55,42
+10 copy
+bounds:1047,2,55,42
+11
+bounds:1503,240,43,44
+11 copy
+bounds:1325,173,43,44
+12
+bounds:1390,4,31,45
+rotate:90
+12 copy
+bounds:1503,207,31,45
+rotate:90
+13
+bounds:1325,219,46,44
+13 copy
+bounds:1503,330,46,44
+14
+bounds:615,17,38,48
+rotate:90
+14 copy
+bounds:565,17,38,48
+rotate:90
+15
+bounds:1390,85,31,46
+15 copy
+bounds:1382,37,31,46
+16
+bounds:1494,132,31,44
+rotate:90
+16 copy
+bounds:1464,165,31,44
+2
+bounds:1418,174,44,35
+2 copy
+bounds:1203,9,44,35
+3
+bounds:1297,7,45,37
+3 copy
+bounds:1297,46,45,37
+4
+bounds:1147,46,48,37
+4 copy
+bounds:1097,46,48,37
+5
+bounds:1497,165,40,41
+rotate:90
+5 copy
+bounds:1423,92,40,41
+6
+bounds:718,20,51,35
+6 copy
+bounds:665,20,51,35
+7
+bounds:1344,36,47,36
+rotate:90
+7 copy
+bounds:1341,85,47,36
+8
+bounds:1490,90,40,41
+rotate:90
+8 copy
+bounds:1448,2,40,41
+9
+bounds:1448,45,45,31
+rotate:90
+9 copy
+bounds:1415,38,45,31
+rotate:90
+Back
+bounds:816,115,305,308
+Layer 4
+bounds:1461,138,25,31
+rotate:90
+Platform
+bounds:1123,85,216,71
+ShadoeofTitle
+bounds:2,12,411,445
+rotate:90
+ShadowofCircle
+bounds:449,57,365,366
+ShadowofPlatform
+bounds:816,10,229,103
+TitleRed
+bounds:1123,309,276,114
+a
+bounds:1104,3,41,46
+rotate:90
+davuk
+bounds:1123,158,200,149
+offsets:0,10,200,159
+e
+bounds:1344,2,32,44
+rotate:90
+enüstyaprak
+bounds:1047,46,48,67
+l
+bounds:1370,175,34,46
+rotate:90
+s
+bounds:1249,8,37,46
+rotate:90
+sağaltınmeyve1
+bounds:1490,25,30,30
+sağaltınmeyve3
+bounds:1490,25,30,30
+solaltınmeyve1
+bounds:1490,25,30,30
+solaltınmeyve3
+bounds:1490,25,30,30
+sağaltınmeyve2
+bounds:1481,57,31,31
+solaltınmeyve2
+bounds:1514,57,31,31
+tabela
+bounds:1401,211,212,100
+rotate:90
+tabelasağalt
+bounds:1503,286,46,42
+tabelasağüst
+bounds:1152,9,35,49
+rotate:90
+tabelasolalt
+bounds:1377,133,39,40
+tabelasolüst
+bounds:1247,47,36,48
+rotate:90
+çubuk
+bounds:1341,123,34,48
+üstsağ
+bounds:1197,46,48,37
+üstsağalt
+bounds:1503,376,52,47
+üstsol
+bounds:449,12,62,43
+üstsolalt
+bounds:513,16,39,50
+rotate:90

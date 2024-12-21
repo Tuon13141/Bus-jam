@@ -1,0 +1,105 @@
+WonderWheel_Title_Anim_007.png
+size:1448,672
+filter:Linear,Linear
+pma:true
+scale:0.4
+BG
+bounds:2,281,1444,389
+Light_C 1
+bounds:1303,83,56,56
+Light_C
+bounds:1303,83,56,56
+Light_C 10
+bounds:1303,83,56,56
+Light_C 11
+bounds:1303,83,56,56
+Light_C 12
+bounds:1303,83,56,56
+Light_C 13
+bounds:1303,83,56,56
+Light_C 14
+bounds:1303,83,56,56
+Light_C 15
+bounds:1303,83,56,56
+Light_C 16
+bounds:1303,83,56,56
+Light_C 17
+bounds:1303,83,56,56
+Light_C 18
+bounds:1303,83,56,56
+Light_C 19
+bounds:1303,83,56,56
+Light_C 2
+bounds:1303,83,56,56
+Light_C 20
+bounds:1303,83,56,56
+Light_C 21
+bounds:1303,83,56,56
+Light_C 22
+bounds:1303,83,56,56
+Light_C 23
+bounds:1303,83,56,56
+Light_C 3
+bounds:1303,83,56,56
+Light_C 4
+bounds:1303,83,56,56
+Light_C 5
+bounds:1303,83,56,56
+Light_C 6
+bounds:1303,83,56,56
+Light_C 7
+bounds:1303,83,56,56
+Light_C 8
+bounds:1303,83,56,56
+Light_C 9
+bounds:1303,83,56,56
+Light_O 1
+bounds:1303,141,138,138
+Light_O
+bounds:1303,141,138,138
+Light_O 10
+bounds:1303,141,138,138
+Light_O 11
+bounds:1303,141,138,138
+Light_O 12
+bounds:1303,141,138,138
+Light_O 13
+bounds:1303,141,138,138
+Light_O 14
+bounds:1303,141,138,138
+Light_O 15
+bounds:1303,141,138,138
+Light_O 16
+bounds:1303,141,138,138
+Light_O 17
+bounds:1303,141,138,138
+Light_O 18
+bounds:1303,141,138,138
+Light_O 19
+bounds:1303,141,138,138
+Light_O 2
+bounds:1303,141,138,138
+Light_O 20
+bounds:1303,141,138,138
+Light_O 21
+bounds:1303,141,138,138
+Light_O 22
+bounds:1303,141,138,138
+Light_O 23
+bounds:1303,141,138,138
+Light_O 3
+bounds:1303,141,138,138
+Light_O 4
+bounds:1303,141,138,138
+Light_O 5
+bounds:1303,141,138,138
+Light_O 6
+bounds:1303,141,138,138
+Light_O 7
+bounds:1303,141,138,138
+Light_O 8
+bounds:1303,141,138,138
+Light_O 9
+bounds:1303,141,138,138
+Title
+bounds:2,2,1299,277

@@ -1,0 +1,7 @@
+leaf_05.png
+size:84,184
+filter:Linear,Linear
+pma:true
+5
+bounds:2,2,80,180
+offsets:3,0,86,180

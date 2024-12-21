@@ -1,0 +1,9 @@
+LockAnim.png
+size:411,232
+filter:Linear,Linear
+pma:true
+Layer 1
+bounds:2,2,237,228
+offsets:2,0,240,228
+Lock-top
+bounds:241,2,168,228

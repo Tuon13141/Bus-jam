@@ -1,0 +1,37 @@
+SharkAnim.png
+size:2033,1225
+filter:Linear,Linear
+pma:true
+Fin_01
+bounds:947,2,332,363
+Fin_02
+bounds:2,79,286,470
+offsets:0,2,286,472
+rotate:90
+Fin_03
+bounds:1281,14,351,267
+rotate:90
+Fin_04
+bounds:474,90,275,471
+rotate:90
+Layer 7
+bounds:1843,879,344,170
+rotate:90
+Layer 8 copy
+bounds:2,367,1839,856
+odun parçası 1
+bounds:1803,137,223,201
+offsets:1,1,224,202
+odun parçası 2
+bounds:1550,11,251,354
+odun parçası 3
+bounds:1843,541,336,149
+offsets:1,0,337,149
+rotate:90
+odun parçası 4
+bounds:474,3,85,106
+offsets:1,0,87,106
+rotate:90
+odun parçası 5
+bounds:1843,340,188,199
+offsets:0,8,188,207

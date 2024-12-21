@@ -1,0 +1,17 @@
+DynamicQuestChestsAnimation_03.png
+size:1625,1597
+filter:Linear,Linear
+pma:true
+Levels 1
+bounds:785,2,802,527
+Levels 1 copy 12
+bounds:817,531,806,499
+Levels 1 copy 13
+bounds:2,65,776,306
+Levels 1 copy 3
+bounds:2,981,813,614
+offsets:138,73,951,687
+Levels 1 copy 6
+bounds:2,373,781,606
+Levels 1 copy 9
+bounds:817,1032,799,563

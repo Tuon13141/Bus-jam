@@ -1,0 +1,18 @@
+ButterFlyAnimExport.png
+size:1907,1009
+filter:Linear,Linear
+pma:true
+arka kanat
+bounds:818,2,1087,1005
+offsets:55,60,1149,1065
+gövde
+bounds:2,385,814,622
+offsets:389,37,1327,1471
+
+ButterFlyAnimExport_2.png
+size:1045,1469
+filter:Linear,Linear
+pma:true
+üst kanat
+bounds:2,2,1041,1465
+offsets:0,15,1054,1521

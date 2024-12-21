@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SkinPlane_Body
+  m_Controller: {fileID: 9100000, guid: 4c1447115b78a7a4dafda7a11615c0d4, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 7d9cafab4d6c9034198dea40fae68759, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 79479be0238ad6e4fbb7a5ec5538a8aa, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 0be10e8803b41ff4b842360c0ad2a603, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1c9e15cde1e17de49b0253205d269bd7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: ec225ac7700d0314fb66408f8e70b1da, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 8a839872af7def349849ec23f5730a3d, type: 2}

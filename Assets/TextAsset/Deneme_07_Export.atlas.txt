@@ -1,0 +1,20 @@
+Deneme_07_Export.png
+size:702,308
+filter:Linear,Linear
+pma:true
+scale:0.5
+Bar
+bounds:0,0,235,203
+offsets:0,0,739,203
+GreenBall
+bounds:237,27,176,176
+GreenBall2
+bounds:237,27,176,176
+PartofGreenBubble
+bounds:415,94,109,36
+rotate:90
+PartofGreenBubble2
+bounds:415,94,109,36
+rotate:90
+STAGE LEVEL
+bounds:0,205,702,103

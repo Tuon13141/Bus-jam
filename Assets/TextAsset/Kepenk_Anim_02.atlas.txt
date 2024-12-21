@@ -1,0 +1,7 @@
+Kepenk_Anim_02.png
+size:1254,388
+filter:Linear,Linear
+pma:true
+Kepenk
+bounds:2,2,1250,384
+offsets:0,20,1250,404

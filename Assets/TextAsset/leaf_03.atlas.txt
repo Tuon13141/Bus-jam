@@ -1,0 +1,6 @@
+leaf_03.png
+size:82,163
+filter:Linear,Linear
+pma:true
+2
+bounds:2,2,78,159

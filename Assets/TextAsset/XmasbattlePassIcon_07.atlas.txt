@@ -1,0 +1,63 @@
+XmasbattlePassIcon_07.png
+size:498,1283
+filter:Linear,Linear
+pma:true
+scale:0.4
+Back Shadow
+bounds:2,664,346,256
+Body
+bounds:337,471,153,147
+offsets:0,3,153,150
+CandyLeft
+bounds:328,272,79,98
+rotate:90
+Hat
+bounds:328,58,212,97
+rotate:90
+Head
+bounds:337,353,116,116
+LeftArm
+bounds:427,185,43,65
+offsets:0,0,43,69
+rotate:90
+LeftArm 2
+bounds:427,93,62,90
+LeftHand
+bounds:427,43,48,52
+rotate:90
+PlatfromCircle
+bounds:2,90,321,324
+rotate:90
+Right Arm
+bounds:190,41,88,47
+offsets:0,8,88,55
+RightArm 2
+bounds:428,230,68,94
+RightHand
+bounds:455,415,54,39
+rotate:90
+ShadoeofTitle
+bounds:367,914,299,128
+offsets:54,56,411,445
+rotate:90
+ShadowofCircle
+bounds:2,922,359,363
+offsets:3,3,365,366
+rotate:90
+SnowCircle
+bounds:2,413,333,249
+TitleRed
+bounds:350,620,292,120
+offsets:57,60,411,445
+rotate:90
+beard
+bounds:2,2,96,86
+mustache
+bounds:455,326,87,26
+rotate:90
+snow
+bounds:367,1215,66,129
+offsets:0,0,236,129
+rotate:90
+xmas ticket
+bounds:100,11,88,77
